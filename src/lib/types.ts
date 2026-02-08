@@ -8,6 +8,7 @@ export interface Question {
   options: Option[];
   reverse?: boolean;
   correctAnswer?: string; // For cognitive questions
+  category?: string; // Optional category for display
 }
 
 export interface Option {
@@ -53,7 +54,7 @@ export interface RoleFit {
 
 export interface AssessmentResult {
   id: string;
-  createdAt: Date;
+  createdAt: string;
   traits: TraitScores;
   workValues: WorkValues;
   workStyle: WorkStyle;

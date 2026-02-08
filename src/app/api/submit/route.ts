@@ -44,8 +44,10 @@ export async function POST(request: NextRequest) {
             roleFits,
             strengths,
             riskAreas,
-            consistencyScore,
-            avgResponseTime,
+            qualityMetrics: {
+                consistency: consistencyScore,
+                avgResponseTime: avgResponseTime,
+            },
             createdAt: new Date().toISOString(),
         };
 
