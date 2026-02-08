@@ -85,3 +85,44 @@ export interface RoleProfile {
     conflictStyle: string[];
   };
 }
+
+// Custom role created by recruiters
+export interface CustomRole {
+  id: string;
+  title: string;
+  description?: string;
+  traitWeights: Record<string, number>;
+  idealRanges: Record<string, { min: number; max: number }>;
+  culturePreference: 'startup' | 'corporate' | 'hybrid';
+  minimumCognitive: number;
+  workStyleRequirements?: {
+    teamRole?: string;
+    communicationStyle?: string;
+  };
+  createdBy?: string;
+  isAiGenerated: boolean;
+  createdAt: Date;
+}
+
+// Candidate match result for a custom role
+export interface CandidateMatch {
+  id: string;
+  candidateId: string;
+  roleId: string;
+  fitScore: number;
+  behavioralScore: number;
+  ratingColor: 'green' | 'blue' | 'orange';
+  ratingLabel: 'PROCEED' | 'PROBE' | 'PASS';
+  ratingReason: string;
+  aiSummary?: string;
+  interviewFocus?: string[];
+  concerns?: string[];
+  createdAt: Date;
+}
+
+// Trait range configuration for custom roles
+export interface TraitRange {
+  min: number;
+  max: number;
+}
+
