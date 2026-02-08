@@ -40,7 +40,7 @@ The summary should be about 3-4 paragraphs long. Focus on their professional pot
         const completion = await client.chat.completions.create({
             messages: [{ role: 'user', content: prompt }],
             model: 'llama3.1-8b',
-        });
+        }) as any;
 
         const overview = completion.choices[0]?.message?.content || 'Unable to generate insight.';
 
