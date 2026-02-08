@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "type": "likert",
+    "trait": "EXT",
+    "text": "In group discussions, I usually prefer actively speaking over listening.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "likert",
+    "trait": "EXT",
+    "text": "After a day full of meetings, I feel energized rather than drained.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "likert",
+    "trait": "EXT",
+    "text": "When meeting new people at work, I feel comfortable quickly.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "likert",
+    "trait": "EXT",
+    "text": "I do my best work when collaborating with others.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "likert",
+    "trait": "CON",
+    "text": "I prefer structured plans over improvisation.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "likert",
+    "trait": "CON",
+    "text": "Avoiding mistakes is more important than speed.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "likert",
+    "trait": "CON",
+    "text": "I consistently follow through on commitments.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "likert",
+    "trait": "CON",
+    "text": "I keep track of details others often miss.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "likert",
+    "trait": "EMO",
+    "text": "Under pressure, I remain calm and focused.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "likert",
+    "trait": "EMO",
+    "text": "Unexpected problems significantly affect my mood.",
+    "reverse": true,
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "likert",
+    "trait": "EMO",
+    "text": "I recover quickly after stressful situations.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "likert",
+    "trait": "EMO",
+    "text": "Tight deadlines make me anxious.",
+    "reverse": true,
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "likert",
+    "trait": "RISK",
+    "text": "I'm comfortable making decisions with incomplete information.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "likert",
+    "trait": "RISK",
+    "text": "I prefer safe options over bold ones.",
+    "reverse": true,
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "likert",
+    "trait": "RISK",
+    "text": "Trying something new excites me, even if it might fail.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "likert",
+    "trait": "RISK",
+    "text": "I avoid situations where outcomes are uncertain.",
+    "reverse": true,
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "likert",
+    "trait": "DEC",
+    "text": "I decide quickly and adjust later if needed.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "likert",
+    "trait": "DEC",
+    "text": "I prefer gathering extensive information before acting.",
+    "reverse": true,
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "likert",
+    "trait": "DEC",
+    "text": "Speed is more valuable than precision in most work situations.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 20,
+    "type": "likert",
+    "trait": "DEC",
+    "text": "I'm comfortable making calls others might hesitate on.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "likert",
+    "trait": "MOT",
+    "text": "Learning new skills motivates me more than job security.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 22,
+    "type": "likert",
+    "trait": "MOT",
+    "text": "I prefer long-term stability over rapid growth.",
+    "reverse": true,
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 23,
+    "type": "likert",
+    "trait": "MOT",
+    "text": "Career advancement matters more to me than comfort.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 24,
+    "type": "likert",
+    "trait": "MOT",
+    "text": "I actively seek feedback to improve.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  },
+  {
+    "id": 25,
+    "type": "likert",
+    "trait": "MOT",
+    "text": "I feel energized by ambitious goals.",
+    "options": [
+      { "id": "1", "text": "Strongly Disagree", "value": 1 },
+      { "id": "2", "text": "Disagree", "value": 2 },
+      { "id": "3", "text": "Neutral", "value": 3 },
+      { "id": "4", "text": "Agree", "value": 4 },
+      { "id": "5", "text": "Strongly Agree", "value": 5 }
+    ]
+  }
+]

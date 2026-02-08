@@ -1,0 +1,230 @@
+[
+    {
+        "id": "sales_executive",
+        "title": "Sales Executive",
+        "weights": {
+            "EXT": 0.22,
+            "RISK": 0.18,
+            "EMO": 0.18,
+            "CON": 0.12,
+            "DEC": 0.10,
+            "MOT": 0.10,
+            "COG": 0.10
+        },
+        "ideal": {
+            "EXT": 75,
+            "RISK": 65,
+            "EMO": 70,
+            "CON": 55,
+            "DEC": 65,
+            "MOT": 75,
+            "COG": 55
+        },
+        "culture": "mixed",
+        "values": [
+            "autonomy",
+            "recognition",
+            "challenge"
+        ],
+        "style": {
+            "teamRole": [
+                "Leader",
+                "Innovator"
+            ],
+            "conflictStyle": [
+                "Competing",
+                "Collaborating"
+            ]
+        }
+    },
+    {
+        "id": "backend_engineer",
+        "title": "Backend Engineer",
+        "weights": {
+            "CON": 0.22,
+            "COG": 0.25,
+            "DEC": 0.15,
+            "EMO": 0.15,
+            "EXT": 0.08,
+            "RISK": 0.08,
+            "MOT": 0.07
+        },
+        "ideal": {
+            "CON": 75,
+            "COG": 80,
+            "DEC": 45,
+            "EMO": 65,
+            "EXT": 45,
+            "RISK": 45,
+            "MOT": 65
+        },
+        "culture": "mixed",
+        "values": [
+            "structure",
+            "stability",
+            "independence"
+        ],
+        "style": {
+            "teamRole": [
+                "Executor",
+                "Innovator"
+            ],
+            "conflictStyle": [
+                "Collaborating",
+                "Avoiding"
+            ]
+        }
+    },
+    {
+        "id": "operations_manager",
+        "title": "Operations Manager",
+        "weights": {
+            "CON": 0.25,
+            "EMO": 0.22,
+            "EXT": 0.18,
+            "DEC": 0.12,
+            "RISK": 0.10,
+            "MOT": 0.08,
+            "COG": 0.05
+        },
+        "ideal": {
+            "CON": 80,
+            "EMO": 75,
+            "EXT": 65,
+            "DEC": 50,
+            "RISK": 45,
+            "MOT": 60,
+            "COG": 60
+        },
+        "culture": "corporate",
+        "values": [
+            "structure",
+            "stability",
+            "collaboration"
+        ],
+        "style": {
+            "teamRole": [
+                "Leader",
+                "Supporter"
+            ],
+            "conflictStyle": [
+                "Collaborating",
+                "Compromising"
+            ]
+        }
+    },
+    {
+        "id": "product_designer",
+        "title": "Product Designer",
+        "weights": {
+            "MOT": 0.20,
+            "COG": 0.20,
+            "DEC": 0.18,
+            "EXT": 0.15,
+            "CON": 0.15,
+            "RISK": 0.07,
+            "EMO": 0.05
+        },
+        "ideal": {
+            "MOT": 75,
+            "COG": 70,
+            "DEC": 55,
+            "EXT": 60,
+            "CON": 65,
+            "RISK": 60,
+            "EMO": 65
+        },
+        "culture": "startup",
+        "values": [
+            "autonomy",
+            "challenge",
+            "collaboration"
+        ],
+        "style": {
+            "teamRole": [
+                "Innovator",
+                "Supporter"
+            ],
+            "conflictStyle": [
+                "Collaborating",
+                "Compromising"
+            ]
+        }
+    },
+    {
+        "id": "data_analyst",
+        "title": "Data Analyst",
+        "weights": {
+            "COG": 0.30,
+            "CON": 0.25,
+            "DEC": 0.15,
+            "EMO": 0.12,
+            "RISK": 0.08,
+            "EXT": 0.05,
+            "MOT": 0.05
+        },
+        "ideal": {
+            "COG": 85,
+            "CON": 80,
+            "DEC": 40,
+            "EMO": 70,
+            "RISK": 40,
+            "EXT": 40,
+            "MOT": 60
+        },
+        "culture": "corporate",
+        "values": [
+            "structure",
+            "security",
+            "independence"
+        ],
+        "style": {
+            "teamRole": [
+                "Executor",
+                "Supporter"
+            ],
+            "conflictStyle": [
+                "Avoiding",
+                "Collaborating"
+            ]
+        }
+    },
+    {
+        "id": "startup_founder",
+        "title": "Startup Founder",
+        "weights": {
+            "RISK": 0.25,
+            "MOT": 0.22,
+            "DEC": 0.18,
+            "EXT": 0.15,
+            "EMO": 0.10,
+            "COG": 0.05,
+            "CON": 0.05
+        },
+        "ideal": {
+            "RISK": 85,
+            "MOT": 90,
+            "DEC": 75,
+            "EXT": 70,
+            "EMO": 65,
+            "COG": 65,
+            "CON": 50
+        },
+        "culture": "startup",
+        "values": [
+            "autonomy",
+            "challenge",
+            "recognition"
+        ],
+        "style": {
+            "teamRole": [
+                "Leader",
+                "Innovator"
+            ],
+            "conflictStyle": [
+                "Competing",
+                "Collaborating"
+            ]
+        }
+    }
+]

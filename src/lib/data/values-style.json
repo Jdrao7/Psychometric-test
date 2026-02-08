@@ -1,0 +1,158 @@
+[
+    {
+        "id": 34,
+        "type": "forced_choice",
+        "category": "values",
+        "text": "Which matters more to you in a role?",
+        "options": [
+            {
+                "id": "A",
+                "text": "High autonomy and ownership",
+                "value": "autonomy"
+            },
+            {
+                "id": "B",
+                "text": "Clear structure and guidance",
+                "value": "structure"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "type": "forced_choice",
+        "category": "values",
+        "text": "What motivates you more?",
+        "options": [
+            {
+                "id": "A",
+                "text": "Public recognition and visibility",
+                "value": "recognition"
+            },
+            {
+                "id": "B",
+                "text": "Job security and steady growth",
+                "value": "stability"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "type": "forced_choice",
+        "category": "values",
+        "text": "You'd prefer a role with:",
+        "options": [
+            {
+                "id": "A",
+                "text": "Challenging problems, some uncertainty",
+                "value": "challenge"
+            },
+            {
+                "id": "B",
+                "text": "Well-defined tasks, predictable work",
+                "value": "security"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "type": "forced_choice",
+        "category": "values",
+        "text": "You work best when:",
+        "options": [
+            {
+                "id": "A",
+                "text": "Collaborating closely with a team",
+                "value": "collaboration"
+            },
+            {
+                "id": "B",
+                "text": "Working independently on deep tasks",
+                "value": "independence"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "type": "scenario",
+        "category": "teamRole",
+        "text": "A new project starts. You naturally:",
+        "options": [
+            {
+                "id": "A",
+                "text": "Take charge and assign tasks",
+                "value": "Leader"
+            },
+            {
+                "id": "B",
+                "text": "Propose creative approaches",
+                "value": "Innovator"
+            },
+            {
+                "id": "C",
+                "text": "Focus on getting things done",
+                "value": "Executor"
+            },
+            {
+                "id": "D",
+                "text": "Help coordinate and support others",
+                "value": "Supporter"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "type": "scenario",
+        "category": "conflictStyle",
+        "text": "Two teammates disagree strongly. You:",
+        "options": [
+            {
+                "id": "A",
+                "text": "Push your solution as the best",
+                "value": "Competing"
+            },
+            {
+                "id": "B",
+                "text": "Find a middle ground quickly",
+                "value": "Compromising"
+            },
+            {
+                "id": "C",
+                "text": "Work to understand both sides deeply",
+                "value": "Collaborating"
+            },
+            {
+                "id": "D",
+                "text": "Step back and let them resolve it",
+                "value": "Avoiding"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "type": "scenario",
+        "category": "communicationStyle",
+        "text": "When sharing complex information, you prefer:",
+        "options": [
+            {
+                "id": "A",
+                "text": "Bottom line first, details if asked",
+                "value": "Direct"
+            },
+            {
+                "id": "B",
+                "text": "Full context, then conclusion",
+                "value": "Analytical"
+            },
+            {
+                "id": "C",
+                "text": "Focus on people impact, empathy",
+                "value": "Expressive"
+            },
+            {
+                "id": "D",
+                "text": "Careful wording, consider reactions",
+                "value": "Diplomatic"
+            }
+        ]
+    }
+]

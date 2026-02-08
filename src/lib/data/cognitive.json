@@ -1,0 +1,202 @@
+[
+    {
+        "id": 26,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "If all Blorks are Snips, and some Snips are Targs, which must be true?",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "All Blorks are Targs"
+            },
+            {
+                "id": "B",
+                "text": "Some Blorks may be Targs"
+            },
+            {
+                "id": "C",
+                "text": "No Blorks are Targs"
+            },
+            {
+                "id": "D",
+                "text": "All Targs are Blorks"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "Statement: \"If it rains, the ground is wet.\" The ground is dry. What can you conclude?",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "It will rain soon"
+            },
+            {
+                "id": "B",
+                "text": "It did not rain"
+            },
+            {
+                "id": "C",
+                "text": "It rained earlier"
+            },
+            {
+                "id": "D",
+                "text": "Cannot determine"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "What comes next in this sequence: 2, 6, 12, 20, 30, ?",
+        "correctAnswer": "C",
+        "options": [
+            {
+                "id": "A",
+                "text": "36"
+            },
+            {
+                "id": "B",
+                "text": "40"
+            },
+            {
+                "id": "C",
+                "text": "42"
+            },
+            {
+                "id": "D",
+                "text": "44"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "Complete the pattern: △, ○, △△, ○○, △△△, ?",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "△△△△"
+            },
+            {
+                "id": "B",
+                "text": "○○○"
+            },
+            {
+                "id": "C",
+                "text": "△○△"
+            },
+            {
+                "id": "D",
+                "text": "○△○"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "A project takes 6 people 8 days to complete. How many days would it take 4 people?",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "10 days"
+            },
+            {
+                "id": "B",
+                "text": "12 days"
+            },
+            {
+                "id": "C",
+                "text": "14 days"
+            },
+            {
+                "id": "D",
+                "text": "16 days"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "A product's cost increases by 20%, then decreases by 20%. What is the net change?",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "No change"
+            },
+            {
+                "id": "B",
+                "text": "4% decrease"
+            },
+            {
+                "id": "C",
+                "text": "4% increase"
+            },
+            {
+                "id": "D",
+                "text": "2% decrease"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "\"Sales increased after the new ad campaign launched.\" This statement:",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "Proves the campaign caused the increase"
+            },
+            {
+                "id": "B",
+                "text": "Suggests correlation, not causation"
+            },
+            {
+                "id": "C",
+                "text": "Shows the campaign failed"
+            },
+            {
+                "id": "D",
+                "text": "Is insufficient data"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "type": "mcq",
+        "trait": "COG",
+        "text": "A manager says: \"We've always done it this way.\" This reasoning is:",
+        "correctAnswer": "B",
+        "options": [
+            {
+                "id": "A",
+                "text": "Strong — experience matters"
+            },
+            {
+                "id": "B",
+                "text": "Weak — appeal to tradition"
+            },
+            {
+                "id": "C",
+                "text": "Neutral"
+            },
+            {
+                "id": "D",
+                "text": "Irrelevant"
+            }
+        ]
+    }
+]
